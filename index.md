@@ -13,7 +13,7 @@ Python (pandas), SQL (BigQuery), Excel, Tableau, statistics, presenting insights
 
 ## Writing
 
-[Unveiling the Trends: Immigration and Economic Factors in Canada](https://medium.com/@jorgemeneses388/unveiling-the-trends-immigration-and-economic-factors-in-canada-2240d2ecb5e5)
+[Immigration and Economic Factors in Canada (2024)](link): my first data project, comparing national immigration trends with economic indicators.
 
 ## Contact
 
