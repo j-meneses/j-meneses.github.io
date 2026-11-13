@@ -17,4 +17,4 @@ Python (pandas), SQL (BigQuery), Excel, Tableau, statistics, presenting insights
 
 ## Contact
 
-[LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/jorgemeneses90/)) 
+[LinkedIn]((https://www.linkedin.com/in/jorgemeneses90/)) 
