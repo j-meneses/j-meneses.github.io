@@ -15,4 +15,3 @@ Python (pandas), SQL (BigQuery), Excel, Tableau, statistics, presenting insights
 
 [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/jorgemeneses90/)) 
 [Medium]((https://medium.com/@jorgemeneses388))
-[Email](jorgemeneses388@gmail.com)
