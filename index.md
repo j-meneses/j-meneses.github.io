@@ -11,7 +11,10 @@ Who lives here, what they do, and how we compare to Ontario and similar communit
 
 Python (pandas), SQL (BigQuery), Excel, Tableau, statistics, presenting insights to non-technical audiences
 
+## Writing
+
+[Unveiling the Trends: Immigration and Economic Factors in Canada](https://medium.com/@jorgemeneses388/unveiling-the-trends-immigration-and-economic-factors-in-canada-2240d2ecb5e5)
+
 ## Contact
 
-[LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/jorgemeneses90/)) 
-[Medium]((https://medium.com/@jorgemeneses388))
+[LinkedIn](https://www.linkedin.com/in/your-profile) · [Medium](https://medium.com/@your-handle)
